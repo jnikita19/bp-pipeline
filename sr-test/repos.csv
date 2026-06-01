@@ -1,0 +1,2 @@
+reponame,git_provider,url,git_credential
+TestDummy,github,https://github.com/jnikita19/bp-pipeline.git,null
