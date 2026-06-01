@@ -1,2 +1,2 @@
 application,service,application_env,repo_id,repo_branch,job_template,dockerfile,context,environment_master,registry_name
-sr-test,test-dummy-19,stage-sr,TestDummy,main,Demo,Dockerfile,.,dev,bp
+sr-test,test-dummy-19,dev,TestDummy,main,Demo,Dockerfile,.,dev,bp
