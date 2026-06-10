@@ -1,2 +1,3 @@
 application,service,application_env,repo_id,repo_branch,job_template,dockerfile,context,environment_master,registry_name,pre_hooks
-sr-test,test-199,dev-test,TestDummy,main,global-observability-stack-v2,Dockerfile,.,dev,bp,"echo preparing CI;;git --version;;pwd"
+sr-test,test-199,dev-test,TestDummy,main,demo,Dockerfile,.,dev,bp,"echo preparing CI;;git --version;;pwd"
+sr-test,test-199,dev,TestDummy,main,demo,Dockerfile,.,dev,bp,"echo preparing CI;;git --version;;pwd"
